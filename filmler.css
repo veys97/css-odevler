@@ -1,0 +1,38 @@
+/* *** Header - Start *** */
+#head{
+    text-align: center;
+    font-size: 35px;
+}
+
+.menu{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 19px;
+    list-style: none;
+    display: block;
+}
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+/* *** Header - End */
+
+/* *** Div - Start *** */
+div{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
+
+img{
+    text-align: center;
+}
+/* *** Div - End *** */
+
+/* *** Footer - Start *** */
+/* *** Footer - End *** */

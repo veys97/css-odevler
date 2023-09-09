@@ -1,0 +1,35 @@
+/*  *** Header - Start *** */
+#head{
+    text-align: center;
+    font-size: 25px;
+}
+
+.menu{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 19px;
+    list-style: none;
+    display: block;
+}
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+.a{
+    text-decoration: none;
+}
+/*  *** Header - End *** */
+
+/* *** Div - Start *** */
+div>p{
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+/* *** Div - End *** */
+
+/* *** Footer - Start *** */
+/* *** Footer - End *** */
